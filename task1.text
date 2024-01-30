@@ -1,0 +1,16 @@
+Q1: 3 images
+
+Q2: docker run alpine cat /etc/hostname
+
+Q3: docker run ubuntu:noble
+
+Q4: docker run -d erseco/alpine-php-webserver
+
+Q5: docker run -p 55:8080 erseco/alpine-php-webserver
+
+Q6: 
+
+Q7:
+ docker ps
+ docker stop 76b7
+docker rm 76b7 
